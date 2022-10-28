@@ -1,0 +1,2 @@
+//for revese a string
+temp="".join(reversed(firstString))
